@@ -5,7 +5,7 @@
 
 🌸 ✨ 🌸 ✨ 🌸 ✨ 🌸 ✨ 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=99.9%25+Accuracy+%7C+12%2C000%2B+Records+Managed;Master's+in+Corporate+Financer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=99.9%25+Accuracy+%7C+12%2C000%2B+Records+Managed;Master's+in+Corporate+Finance" alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 <table>
 <tr><td>
 
-**📍 Location:** Mexico City, Mexico 🇲🇽  
+**📍 Location:** Puebla City, Mexico 🇲🇽  
 **💼 Current Role:** Accounts Payable Analyst @ Gordian Staffing  
 **🎓 Education:** Master's in Corporate Finance (In Progress)  
 **💡 Passion:** Turning complex datasets into actionable insights   
