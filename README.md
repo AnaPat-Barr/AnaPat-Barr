@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cherry Blossom Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=200&section=header&text=Ana%20Patricia%20Sánchez%20Barradas&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Finance%20Professional%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20AP%20Specialist&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=200&section=header&text=Ana%20Patricia%20Sánchez%20Barradas&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Finance%20Professional%20%7C%20Finance%20Analyst%20Enthusiast%20%7C%20AP%20Specialist&descSize=18&descAlignY=55" width="100%"/>
 
 🌸 ✨ 🌸 ✨ 🌸 ✨ 🌸 ✨ 🌸
 
